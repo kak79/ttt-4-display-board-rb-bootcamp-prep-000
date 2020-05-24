@@ -19,7 +19,7 @@ def display_board(board)
 
 
 
-
+#{board[0]}
 
 
 
